@@ -6,5 +6,5 @@ app.listen(5000,()=>{
 console.log("app running on port 500000")
 })
 app.get('/',(req,res)=>{
-    res.json({message:"successyyyutyytttv"})
+    res.json({message:"success is coming"})
 })
